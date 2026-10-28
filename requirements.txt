@@ -1,0 +1,7 @@
+# ==============================================================================
+# Python Network Port Scanner - Dependencies
+# طراح، توسعه‌دهنده و مدرس: امیرسامان پیرایش فر (Amir Saman Pirayeshfar)
+# ==============================================================================
+
+# Cross-platform colored terminal text output (optional, script gracefully falls back to plain text if absent)
+colorama>=0.4.6

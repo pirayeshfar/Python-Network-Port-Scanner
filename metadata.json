@@ -1,0 +1,6 @@
+{
+  "name": "Python Network Port Scanner - Amir Saman Pirayeshfar",
+  "description": "Production-ready, multi-threaded Network Port Scanner in Python with bilingual educational documentation and interactive TCP handshake lab.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
